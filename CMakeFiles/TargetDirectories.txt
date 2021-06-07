@@ -1,0 +1,4 @@
+/class/classes/mslan002/CMakeFiles/rebuild_cache.dir
+/class/classes/mslan002/CMakeFiles/edit_cache.dir
+/class/classes/mslan002/CMakeFiles/bigger_area_calculator.dir
+/class/classes/mslan002/CMakeFiles/area_calculator.dir

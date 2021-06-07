@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/class/classes/mslan002/lab-03---composite-pattern-ckwin001_mslan002_lab-03/add.hpp
+string
+-
+base.hpp
+/class/classes/mslan002/lab-03---composite-pattern-ckwin001_mslan002_lab-03/base.hpp
+
+/class/classes/mslan002/lab-03---composite-pattern-ckwin001_mslan002_lab-03/base.hpp
+string
+-
+
+/class/classes/mslan002/lab-03---composite-pattern-ckwin001_mslan002_lab-03/main.cpp
+iostream
+-
+base.hpp
+/class/classes/mslan002/lab-03---composite-pattern-ckwin001_mslan002_lab-03/base.hpp
+op.hpp
+/class/classes/mslan002/lab-03---composite-pattern-ckwin001_mslan002_lab-03/op.hpp
+mult.hpp
+/class/classes/mslan002/lab-03---composite-pattern-ckwin001_mslan002_lab-03/mult.hpp
+add.hpp
+/class/classes/mslan002/lab-03---composite-pattern-ckwin001_mslan002_lab-03/add.hpp
+sub.hpp
+/class/classes/mslan002/lab-03---composite-pattern-ckwin001_mslan002_lab-03/sub.hpp
+
+/class/classes/mslan002/lab-03---composite-pattern-ckwin001_mslan002_lab-03/mult.hpp
+base.hpp
+/class/classes/mslan002/lab-03---composite-pattern-ckwin001_mslan002_lab-03/base.hpp
+
+/class/classes/mslan002/lab-03---composite-pattern-ckwin001_mslan002_lab-03/op.hpp
+base.hpp
+/class/classes/mslan002/lab-03---composite-pattern-ckwin001_mslan002_lab-03/base.hpp
+
+/class/classes/mslan002/lab-03---composite-pattern-ckwin001_mslan002_lab-03/sub.hpp
+string
+-
+base.hpp
+/class/classes/mslan002/lab-03---composite-pattern-ckwin001_mslan002_lab-03/base.hpp
+
